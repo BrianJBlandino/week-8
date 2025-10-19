@@ -1,4 +1,4 @@
-# importing necessary libaries
+# importing necessary libraries
 from collections import defaultdict
 import streamlit as st
 import numpy as np
